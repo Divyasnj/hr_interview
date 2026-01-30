@@ -44,6 +44,9 @@
 
 “During a project, I faced issues integrating the frontend with the backend. I analyzed the problem, referred to documentation, debugged the APIs, and fixed the data flow. This experience improved my debugging skills and taught me the importance of clear API design.”
 
+
+### “As a fresher, my primary focus is learning and gaining practical experience. I’m open to a salary that is in line with the company’s standards and industry norms. I’m confident that as I prove my skills, the compensation will grow accordingly.”
+
 🔟 Do you have any questions for us?
 
 Ask at least one 👇
