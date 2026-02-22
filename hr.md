@@ -56,3 +56,6 @@ Ask at least one 👇
 ### “How do you measure success for someone in this role?”
 
 ### “My life goal is to become a skilled and impactful software engineer who builds scalable and meaningful solutions. I want to continuously learn new technologies, grow into leadership roles over time, and contribute to projects that create real-world impact.”
+
+
+### After joining Techwave, my first goal would be to understand the company’s processes, tech stack, and project requirements. I would focus on learning from seniors and contributing effectively to live projects. In the initial months, I would concentrate on improving my technical skills and delivering quality work. In the long term, I want to grow into a reliable full-stack developer who adds real value to the organization.”
