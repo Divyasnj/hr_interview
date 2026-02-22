@@ -54,3 +54,5 @@ Ask at least one 👇
 ### “What technologies will I be working with initially?”
 ### “What learning or training opportunities do you provide for freshers?”
 ### “How do you measure success for someone in this role?”
+
+### “My life goal is to become a skilled and impactful software engineer who builds scalable and meaningful solutions. I want to continuously learn new technologies, grow into leadership roles over time, and contribute to projects that create real-world impact.”
